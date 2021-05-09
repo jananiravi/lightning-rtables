@@ -98,7 +98,7 @@ iris %>% head %>%
 ---
 # Tables w/ `gt`
 
-```{r gt, echo=FALSE, fig.cap="", out.width = '50%', out.height='50%'}
+```{r gt, echo=FALSE, fig.cap="", fig.align = 'center', out.height='25%'}
 knitr::include_graphics("sample_gt.png")
 ```
 
