@@ -3,7 +3,7 @@
 #' subtitle: "with GT and flextable"
 #' author: "Janani Ravi"
 #' date: "May 09, 2021"
-#' output: github_document
+#' output: html_document
 #' ---
 
 #' ## [Slides here](index.html)
