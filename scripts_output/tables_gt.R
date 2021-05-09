@@ -6,7 +6,7 @@
 #' output: html_document
 #' ---
 
-#' ## [Slides here](index.html)
+#' ## [Slides](https://jananiravi.github.io/lightning-rtables) | [GitHub repo](https://github.com/jananiravi/lightning-rtables)
 
 
 # Necessary packages
