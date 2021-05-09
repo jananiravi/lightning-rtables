@@ -15,14 +15,14 @@ output:
       highlightLines: true
       countIncrementalSlides: false
 ---
-class: center, top
+class: center, bottom
 background-image: url(https://upload.wikimedia.org/wikipedia/commons/b/be/Sharingan_triple.svg)
 
 ```{r setup, include=FALSE}
 options(htmltools.dir.version = FALSE)
 ```
 
-# Slides made with `xaringan`
+Slides made with [`xaringan`](https://github.com/yihui/xaringan) (Yihui Xie) and [R-Ladies theme](https://alison.rbind.io/project/rladies-xaringan/) (Allison Hill).
 
 ---
 class: inverse, center, middle
@@ -99,7 +99,7 @@ iris %>% head %>%
 # Tables w/ `gt`
 
 ```{r gt, echo=FALSE, fig.cap="", fig.align = 'center', out.height='25%'}
-knitr::include_graphics("sample_gt.png")
+knitr::include_graphics("scripts_output/sample_gt.png")
 ```
 
 ---
@@ -112,10 +112,9 @@ iris %>% head() %>%
 
 ---
 class: center, middle
-
-## [Tables with `knitr`, `rmarkdown`, `DT`](tables_dt.html)
-<br>
-## [Tables with `GT`](tables_gt.html)
+# Demo time!
+## [Tables with `knitr`, `rmarkdown`, `DT`](scripts_output/tables_dt.html)
+## [Tables with `GT`](scripts_output/tables_gt.html)
 
 
 ---
@@ -140,4 +139,4 @@ class: center, middle, inverse
 
 <br>
 <br>
-Slides created via the R package [**xaringan**](https://github.com/yihui/xaringan).
+Slides created via the R package [**xaringan**](https://github.com/yihui/xaringan) (Yihui Xie) and [R-Ladies theme](https://alison.rbind.io/project/rladies-xaringan/) (Allison Hill).

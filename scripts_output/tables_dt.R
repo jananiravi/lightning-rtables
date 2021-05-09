@@ -1,6 +1,6 @@
 #' ---
 #' title: "Interactive Tables"
-#' subtitle: "with DT, knitr, RMarkdown"
+#' subtitle: "with knitr, RMarkdown, kableExtra, DT"
 #' author: "Janani Ravi"
 #' date: "May 09, 2021"
 #' output: html_document

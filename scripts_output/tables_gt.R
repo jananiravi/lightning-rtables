@@ -1,6 +1,6 @@
 #' ---
-#' title: "Colorful Tables"
-#' subtitle: "with GT and flextable"
+#' title: "Colorful Summarized Tables"
+#' subtitle: "with GT"
 #' author: "Janani Ravi"
 #' date: "May 09, 2021"
 #' output: html_document
