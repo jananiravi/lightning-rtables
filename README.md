@@ -19,6 +19,6 @@ _Lightning talk: May 09, 2021 ([R-Ladies Pune](https://meetup.com/rladies-pune))
 - Slides made with [`xaringan`](https://github.com/yihui/xaringan) and the [R-Ladies theme](https://alison.rbind.io/project/rladies-xaringan/).
 
 ## How to reach me?
-- Email: [janani@msu.edu](mailto:janani@msu.edu)
+- Email: [janani.ravi@cuanschutz.edu](mailto:janani.ravi@cuanschutz.edu)
 - Webpage: [jravilab.github.io](https://jravilab.github.io)
 - Twitter: [\@janani137](https://twitter.com/janani137)
